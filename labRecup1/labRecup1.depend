@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1607646317 source:c:\users\usuario\desktop\labrecup1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"prestamo.h"
+	"informes.h"
+	"utn.h"
+
+1607646945 source:c:\users\usuario\desktop\labrecup1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestamo.h"
+	"utn.h"
+
+1607644339 c:\users\usuario\desktop\labrecup1\prestamo.h
+
+1607614915 c:\users\usuario\desktop\labrecup1\utn.h
+
+1607614915 source:c:\users\usuario\desktop\labrecup1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1607646928 source:c:\users\usuario\desktop\labrecup1\prestamo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"prestamo.h"
+	"informes.h"
+	"utn.h"
+
+1607644963 c:\users\usuario\desktop\labrecup1\informes.h
+
